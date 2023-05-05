@@ -1,2 +1,2 @@
 # Portfolio_Project_1.7
-Web-Scraping Movie Data from IMDB and storing it on an excel file using Python
+This project uses Python in order to scrape 3,000 Drama Movies Data from IMDB website and store it into an excel file. 
